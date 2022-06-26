@@ -1,2 +1,5 @@
-This folder contains files for the RSA Factoring Challenge
-It is an optional task as part of the ALX Software engineering program.
+# General
+### This is a challenge to try RSA, the public-key cryptosystem that
+is widely used for secure data transmission.
+### The codes provided will test a given set of numbers, for, presumably, encrytion
+and decryption.
